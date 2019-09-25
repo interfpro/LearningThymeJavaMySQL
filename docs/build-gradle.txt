@@ -1,0 +1,3 @@
+Kirjeldan olulisema, millest build.gradle koosneb:
+- apply plugin: 'java'
+See võimaldab gradlel java koodi buildida
