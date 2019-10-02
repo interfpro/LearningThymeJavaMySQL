@@ -1,0 +1,12 @@
+- Konverentsi sisestamise lihtversioon.
+UI kaudu saaks täita lihtvormi ja "Save" nupule vajutades salvestatakse andmed baasi.
+- Andmemudeli loomine
+- Konverentside kuvamine
+- Konverentsi kustutamine
+- Konverentsiruumide saadavuse kontrollimine
+- Osaleja lisamine konverentsile
+- Osaleja kustutamine konverentsist
+- JUNIT testid teha
+- Andmebaasi loomise script teha
+- Kommenteerimine
+- Installeerimise juhend

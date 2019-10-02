@@ -1,0 +1,33 @@
+Net Group-i prooviülesanne Java arenduses
+“Konverentside halduse rakendus”
+
+Loo REST veebilahendus koos andmebaasiga. Back-end rakendus peab olema teostatud Javas.
+Front-end teosta meelepärases raamistikus. Andmebaasiks kasuta relatsioonilist andmebaasi:
+MySQL, MariaDB või PostgreSQL.
+
+Tegemist on rakendusega, millega saab hallata konverentse.
+
+Funktsionaalsus (baasfunktsionaalsus, vajalikud lisategevused lisa ise):
+• kasutaja loob konverentsi;
+• kasutaja tühistab konverentsi;
+• kasutaja kontrollib koverentsiruumide saadavust (vastavalt registreerunud kasutajatele
+ja ruumi suurusele);
+• kasutaja lisab osalise konverentsi;
+• kasutaja eemaldab osalise konverentsist.
+
+Andmemudel (baasandmed, vajalikud lisaväljad lisa ise):
+• Konverents: konverentsi nimi, toimumise kuupäev ning algusaeg.
+• Osaleja: nimi ja sünnipäev.
+• Konverentsiruum: nimi, asukoht, mahutavus.
+
+Teostamise käigus mõtle läbi nii lähtekoodi, kui ka andmebaasi disain ning ülesehitus. Teosta
+rakendus nagu ootad heas projektis, kus ise tahaksid osaleda. Pea meeles ka testimist ning
+veaolukordi.
+
+Palun anna üle:
+• lahenduse lähtekood;
+• andmebaasi loomise skriptid;
+• juhend ehitamiseks ja käivitamiseks.
+Arenduses liigu pigem teenuse / ekraani kaupa tervikuna, alustades nt. konverentsi
+sisestamisest ja teostades selle enne järgmist funktsionaalsust (milleks võib olla nt.
+konverentside kuvamine).
